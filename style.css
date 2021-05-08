@@ -1,0 +1,20 @@
+.signinform
+{
+    border: 5px rgb(253, 122, 0) solid;
+    height: 400px;
+    width: 450px;
+    margin-left: 35%;
+    margin-top: 5%;
+    padding: 10px;
+    text-align: center;
+}
+.signinform h1
+{
+    color: coral;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.signinform a
+{
+    text-decoration: none;
+    color: red;
+}
